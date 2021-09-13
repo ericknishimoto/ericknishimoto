@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick Nishimoto-PowerBI" height="30" width="40" src="https://github.com/ericknishimoto/ericknishimoto/blob/main/svg/powerbi.svg">
   <img align="center" alt="Erick Nishimoto-Pentaho" height="40" width="40" src="https://github.com/ericknishimoto/ericknishimoto/blob/main/svg/pentaho.svg">
- <img align="center" alt="Erick Nishimoto-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+ <img align="center" alt="Erick Nishimoto-MySql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
   ##
