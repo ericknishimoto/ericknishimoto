@@ -5,9 +5,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericknishimoto&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Erick Nishimoto-PowerBI" height="30" width="40" src="https://github.com/ericknishimoto/ericknishimoto/blob/main/svg/powerbi.svg">
+  <img align="center" alt="Erick Nishimoto-PowerBI" height="40" width="40" src="https://github.com/ericknishimoto/ericknishimoto/blob/main/svg/powerbi.svg">
   <img align="center" alt="Erick Nishimoto-Pentaho" height="40" width="40" src="https://github.com/ericknishimoto/ericknishimoto/blob/main/svg/pentaho.svg">
- <img align="center" alt="Erick Nishimoto-MySql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+ <img align="center" alt="Erick Nishimoto-Pentaho" height="45" width="45" src="https://github.com/ericknishimoto/ericknishimoto/blob/main/svg/alteryx.svg">
+  <img align="center" alt="Erick Nishimoto-PostgreSql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="Erick Nishimoto-MySql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
 </div>
   
   ##
